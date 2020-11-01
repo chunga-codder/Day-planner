@@ -7,4 +7,4 @@ the application display the current day.
 Additionally, each hour is color coded to reflect whether the time slot is in the past, the present, or the future. 
 This will change depending on the time of day. i have used the Moment.js library to work with date and time
 
-you can visit the application on this link 
+you can visit the application on this link https://chunga-codder.github.io/Day-planner/
