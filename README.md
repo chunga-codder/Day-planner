@@ -8,3 +8,7 @@ Additionally, each hour is color coded to reflect whether the time slot is in th
 This will change depending on the time of day. i have used the Moment.js library to work with date and time
 
 you can visit the application on this link https://chunga-codder.github.io/Day-planner/
+
+
+
+https://user-images.githubusercontent.com/71171928/97856241-53e84780-1cfc-11eb-805a-42e4884dad4a.png
